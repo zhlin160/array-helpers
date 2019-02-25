@@ -1,7 +1,7 @@
 <?php
 
 
-namespace zh\helpers;
+namespace zhlin160\helpers;
 
 /**
  * Object that represents the removal of array value while performing [[ArrayHelper::merge()]].

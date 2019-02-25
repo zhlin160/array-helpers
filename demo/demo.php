@@ -7,7 +7,7 @@
  */
 require_once "../vendor/autoload.php";
 
-use zh\helpers\ArrayHelper;
+use zhlin160\helpers\ArrayHelper;
 
 $array = [
          ['id' => '123', 'data' => 'abc', 'device' => 'laptop'],

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace zh\helpers;
+namespace zhlin160\helpers;
 
 /**
  * ArrayHelper provides additional array functionality that you can use in your

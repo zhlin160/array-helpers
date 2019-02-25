@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zh\\helpers\\": "src"
+            "zhlin160\\helpers\\": "src"
         }
     }
 }
